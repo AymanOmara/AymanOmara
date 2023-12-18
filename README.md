@@ -27,3 +27,5 @@
   <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="git" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="git" width="22" height="22"/> 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AymanOmara&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
