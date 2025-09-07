@@ -10,7 +10,6 @@
 
 - 📫 Mail me: aymanomara55@gmail.com
 - 📱 I'm a Mobile Application developer(andoird,ios , flutter). 
-- 🎓 Bachelor in Computer Science.
 - 💬 Ask me anything related to the flutter technology.
 
 
